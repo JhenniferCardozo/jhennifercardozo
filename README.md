@@ -6,11 +6,13 @@
 **JhenniferCardozo/jhennifercardozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-* 🔭 I’m currently working on personal and freelance projects.
-* 🌱 I’m currently learning ReactJs. 
-* 👯 I’m looking to collaborate on an IT organization.
-* 🤔 I’m looking for help with an opportunity to learn, grow and contribute.
-* 📫 How to reach me: jhennifer.stumpf@icloud.com
-* 💻 LinkedIn: https://www.linkedin.com/in/jhennifercardozo
+* 🔭 I’m currently working on **personal and freelance projects**.
+* 🌱 I’m currently learning **ReactJs**. 
+* 👯 I’m looking to collaborate on an **IT organization**.
+* 🤔 I’m looking for help with an **opportunity to learn, grow and contribute**.
+* 📫 How to reach me: **jhennifer.stumpf@icloud.com**
 
-<i class="fab fa-linkedin"></i>
+### Contact me:
+<div align="left">
+<a href="https://linkedin.com/in/jhennifercardozo" target="blank"><img src="https://raw.githubusercontent.com/soroushchehresa/github-readme-linkedin/master/linkedin-github.png" width="100" /></a>
+</div>
