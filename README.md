@@ -14,5 +14,5 @@
 
 ### Contact me:
 <div align="left">
-<a href="https://linkedin.com/in/jhennifercardozo" target="blank"><img src="https://raw.githubusercontent.com/soroushchehresa/github-readme-linkedin/master/linkedin-github.png" width="100" /></a>
+<a href="https://linkedin.com/in/jhennifercardozo" target="blank"><img src="https://github.com/JhenniferCardozo/jhennifercardozo/blob/main/linkedin.png" width="100" /></a>
 </div>
