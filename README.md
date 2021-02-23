@@ -13,3 +13,4 @@
 * 📫 How to reach me: jhennifer.stumpf@icloud.com
 * 💻 LinkedIn: https://www.linkedin.com/in/jhennifercardozo
 
+<i class="fab fa-linkedin"></i>
