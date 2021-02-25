@@ -20,5 +20,7 @@
 </div>
 
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhenniferCardozo&show_icons=true&locale=en&layout=compact" alt="Jhennifer" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhenniferCardozo&langs_count=8&show_icons=true&locale=en&layout=compact&custom_title=JhenniferMostUsedLanguages" alt="Jhennifer" /></p>
 </div>
+
+
