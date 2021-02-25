@@ -12,7 +12,7 @@
 * 🤔 I’m looking for help with an **opportunity to learn, grow and contribute**.
 * 📫 How to reach me: **jhennifer.stumpf@icloud.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JhenniferCardozo&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Jhennifer" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JhenniferCardozo&label=PROFILE+VIEWS&color=d9ecf2&style=flat" alt="Jhennifer" /></p>
 
 ### Contact me:
 <div align="left">
@@ -21,7 +21,7 @@
 
 ### Languages Status:
 <div lign="left">
-<a href="https://github.com/jhennifercardozo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhennifercardozo&langs_count=8&bg_color=a1cae2&show_icons=true&locale=en&layout=compact&custom_title=Jhennifer's Most Used Languages" alt="Jhennifer" /> </a>
+<a href="https://github.com/jhennifercardozo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhennifercardozo&langs_count=8&bg_color=d9ecf2&show_icons=true&locale=en&layout=compact&custom_title=Jhennifer's Most Used Languages" alt="Jhennifer" /> </a>
 </div>
 
 
