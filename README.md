@@ -15,8 +15,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JhenniferCardozo&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Jhennifer" /></p>
 
 ### Contact me:
-<div>
+<div align="left">
 <a href="https://linkedin.com/in/jhennifercardozo" target="blank"><img src="https://github.com/JhenniferCardozo/jhennifercardozo/blob/main/linkedinLogo.png" width="70" /></a>
+</div>
+### Languages Status:
+<div>
 <a href="https://github.com/jhennifercardozo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhennifercardozo&langs_count=8&show_icons=true&locale=en&layout=compact&custom_title=Jhennifer's Most Used Languages" alt="Jhennifer" /> </a>
 </div>
 
