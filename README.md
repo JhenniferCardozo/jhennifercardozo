@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhenniferCardozo&langs_count=8&show_icons=true&locale=en&layout=compact&custom_title=JhenniferMostUsedLanguages" alt="Jhennifer" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhenniferCardozo&langs_count=8&show_icons=true&locale=en&layout=compact&custom_title=Jhennifer's Most Used Languages" alt="Jhennifer" /></p>
 </div>
 
 
