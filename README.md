@@ -18,3 +18,7 @@
 <div align="left">
 <a href="https://linkedin.com/in/jhennifercardozo" target="blank"><img src="https://github.com/JhenniferCardozo/jhennifercardozo/blob/main/linkedinLogo.png" width="70" /></a>
 </div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhenniferCardozo&show_icons=true&locale=en&layout=compact" alt="Jhennifer" />
+</div>
