@@ -12,7 +12,7 @@
 * 🤔 I’m looking for help with an **opportunity to learn, grow and contribute**.
 * 📫 How to reach me: **jhennifer.stumpf@icloud.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JhenniferCardozo&label=PROFILE+VIEWS&color=d9ecf2&style=flat" alt="Jhennifer" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JhenniferCardozo&label=PROFILE+VIEWS&color=1b6ca8&style=flat" alt="Jhennifer" /></p>
 
 ### Contact me:
 <div align="left">
