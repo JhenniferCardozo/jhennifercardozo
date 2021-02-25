@@ -17,10 +17,8 @@
 ### Contact me:
 <div align="left">
 <a href="https://linkedin.com/in/jhennifercardozo" target="blank"><img src="https://github.com/JhenniferCardozo/jhennifercardozo/blob/main/linkedinLogo.png" width="70" /></a>
+<a href="https://github.com/jhennifercardozo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhennifercardozo&langs_count=8&show_icons=true&locale=en&layout=compact&custom_title=Jhennifer's Most Used Languages" alt="Jhennifer" /> </a>
 </div>
 
-<div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhenniferCardozo&langs_count=8&show_icons=true&locale=en&layout=compact&custom_title=Jhennifer's Most Used Languages" alt="Jhennifer" /></p>
-</div>
 
 
